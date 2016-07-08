@@ -1,2 +1,3 @@
-# jgroups-aws
-JGroups discovery protocol for AWS S3 with Authentication Version 4 for access to all regions.
+# jgroups-aws-s3
+JGroups discovery protocol for AWS S3 with Amazon Authentication Version 4 RESTful API for access to all AWS regions.
+
